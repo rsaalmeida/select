@@ -7,7 +7,7 @@
         "bootstrap-select",
         "select-server-side"
     ],
-    "homepage": "https://github.com/laravel-enso/select",
+    "homepage": "https://github.com/rsaalmeida/select",
     "type": "library",
     "license": "MIT",
     "authors": [
